@@ -41,6 +41,7 @@ a {
 .grid {
     display: flex;
 
+
 }
 
 header {
@@ -184,6 +185,7 @@ nav>ul {
 
 #features {
     margin-top: 30px;
+
 }
 
 #features .icon {
